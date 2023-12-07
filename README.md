@@ -17,9 +17,11 @@ The TextEditor project is a basic text editor application developed in Java usin
 Open File: Users can open existing text files from their local filesystem using the "Open File" menu option.
 New Window: Users can open a new instance of the text editor in a separate window by selecting the "New Window" menu option.
 
-👉 "File" features:
+👉 "Edit" features:
 Cut, Copy, and Paste: The application provides standard text editing functionality, allowing users to cut, copy, and paste text within the text area.
+
 Select All: Users can select all text within the text area using the "Select All" menu option.
+
 Close: When the user closes the application window, it exits gracefully using System.exit(0).
 
 ## ➡️ SCREENSHOTS
