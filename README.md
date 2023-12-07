@@ -15,6 +15,7 @@ The TextEditor project is a basic text editor application developed in Java usin
 
 👉 "File" features:
 Open File: Users can open existing text files from their local filesystem using the "Open File" menu option.
+
 New Window: Users can open a new instance of the text editor in a separate window by selecting the "New Window" menu option.
 
 👉 "Edit" features:
